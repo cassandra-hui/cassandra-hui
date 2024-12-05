@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Welcome to my profile
+I am a bioinformatics scientist with a passion for teaching.
